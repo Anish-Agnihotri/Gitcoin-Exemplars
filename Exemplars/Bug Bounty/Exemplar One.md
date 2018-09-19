@@ -56,3 +56,9 @@ Payouts will be made to the first individuals who report bugs.
 Thanks,
 
 [Your organization]
+
+<table>
+<td width=1000>
+Live example of similar exemplar can be found <a href="https://gitcoin.co/issue/zincwork/contracts/25/1130">here</a>.
+</td>
+</table>
