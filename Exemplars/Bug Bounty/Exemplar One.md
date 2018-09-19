@@ -33,7 +33,7 @@ For details about our [Application], please reference:
 
 1. [Link to your Application's documentation]
 2. [External setup process for your Application's environment]
-3. [Other relavent links]
+3. [Other relevant links]
 
 ## Scope
 
