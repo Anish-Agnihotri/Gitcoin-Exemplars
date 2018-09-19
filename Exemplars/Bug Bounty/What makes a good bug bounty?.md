@@ -1,3 +1,12 @@
+<table>
+<td width=100>
+<img src='https://raw.githubusercontent.com/gitcoinco/gitcoinco/master/img/helmet.png'/>
+</td>
+<td width=800>
+  <strong>Exemplar general discussion:</strong> What makes a good bug bounty?
+</td>
+</table>
+
 # What makes a good bug bounty? 
 A good bug bounty is one that is consice, to the point, and provides an adequate amount of detail in regards to the problem(s) that needs to be found and resolved. Since a majority of bug bounties are retroactive, and are not geared towards solving a specific problem, but, rather hunting for one, it is essential to include as much information as possible to guide a bounty hunter. 
 
