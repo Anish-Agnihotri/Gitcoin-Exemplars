@@ -20,28 +20,35 @@ Since design request bounties have such a wide scope, there are various criterio
 Specific to design request bounties, a user story is a great way of informing a prospective bounty hunter regarding your task. Often times, a design request focuses around an existing application or idea, and there is no better way to communicate this then to walk the applicant through the end-goal. For example:
 
 ```
-As a funder, I would like [your-task]. Currently, users follow [x] roadmap through the application, but I'd like to improve this by having a design made to move to [y] roadmap.
+As a funder, I would like [your-task]. 
+Currently, users follow [x] roadmap through the application, 
+but I'd like to improve this by having a design made to move to [y] roadmap.
 ```
 
 ### Current behaviour
 Current behaviour essentially outlines your design, architecture, or idea as it currently stands. This gives a prospect an outlook into what sort of base stage they are working with. For example:
 
 ```
-Currently, on the [some-section] section of the [some-page] page, when the user types in a value it shows a green checkmark.
+Currently, on the [some-section] section of the [some-page] page, 
+when the user types in a value it shows a green checkmark.
 ```
 
 ### Wanted behaviour
 Wanted behaviour outlines your expected result. It tells the bounty hunter exactly what you want. In the case of a design, this section would have information regarding your design guidelines, desired submission format, content usage policies, and information about design-specifics.
 
 ```
-As discussed previously in Current behaviour, when the user types in a value it shows a green checkmark. We want a designer to design a new blue checkmark to adhere to our [design-guidelines]. We are looking for submission in [your-format], in accordance to our [content-usage-policies]. Here are some more design-specifics:
+As discussed previously in Current behaviour, when the user types in a value it shows a green checkmark. 
+We want a designer to design a new blue checkmark to adhere to our [design-guidelines].
+We are looking for submission in [your-format], in accordance to our [content-usage-policies].
+Here are some more design-specifics:
 ```
 
 ### Compensation
 The compensation details your compensation structure for a design submissions. Specifically to design bounties, it is essential to include information regarding content usage and ownership (important for when working with vector images, designs, etc.). For example:
 
 ```
-Completed design bounty will be rewarded with 100ETH. All content approved and paid for will become intellectual property of [your name/organization name].
+Completed design bounty will be rewarded with 100ETH. 
+All content approved and paid for will become intellectual property of [your name/organization name].
 ```
 
 ### Definition of done
