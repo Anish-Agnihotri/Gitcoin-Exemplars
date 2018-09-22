@@ -1,49 +1,51 @@
-<table>
-<td width=100>
 <img src='https://raw.githubusercontent.com/gitcoinco/gitcoinco/master/img/helmet.png'/>
 </td>
 <td width=800>
-  Bug bounty exemplar. Written in perspective of organization posting a <strong>traditional</strong> Gitcoin bounty. Replace text in [] tags to easily reuse template. 
+  Bug bounty exemplar. Written in perspective of organization posting a <strong>collaboration</strong> Gitcoin bounty. Replace text in [] tags to easily reuse template. 
 </td>
 </table>
 
 # [Your Organization] - [Task]
 
-## User story
-As a Funder, we'd like [your-task]. Currently, our users do [your-current-situation], but this needs to be changed. 
+Hey Gitcoin bounty hunters,
 
-## Current behaviour
-Currently, our [design|platform|idea] is at a [new|partly developed|launch] stage. 
+[Your organization] is looking for talented developers to audit and secure our [Application]. We're looking for [UI|Development|Functional] bugs with our [Application].
 
-## Wanted behaviour
-Our purpose for this bounty is to change our current behaviour. We want a designer to do [your-task] while adhering to our [design-guidelines]. We are looking for submission in [your-format], in accordance to our [content-usage-policies].
-Here are some more design-specifics:
-1. Design specific 1.
-2. Design specific 2.
-3. etc.
+## Before you start work
+Before you get going, make sure to read up on our [your-guidelines] and if there is a bounty involved please also see [your-bounty-policies].
+
+If you have ongoing work from other bounties with us where funding has not been released, please do not pick up a new issue. We would like to involve as many contributors as possible and parallelize the work flow as much as possible.
+
+Please make sure to comment in the issue here immediately after starting work so we know your plans for implementation and a timeline.
+
+Please also note that in order for work to be accepted, all code must be accompanied by test cases as well.
+
+## Task
+The task is to find [UI|Development|Functional] bugs with our [Application]. We are looking for unexpected behaviour or unexpected errors occuring. 
+
+## Application details
+For details about our [Application], please reference: 
+1. [Link to your Application's documentation]
+2. [External setup process for your Application's environment]
+3. [Other relevant links]
+
+## Scope
+The scope of our bounty follows these [your-guidelines]. We are looking for an estimated timeline of completion of [completion-time-desired], and request that you stay in touch throughout the process of the bounty.
 
 ## Compensation
-Completed design bounty will be rewarded with [amount-of-payment]. All content approved and paid for will become intellectual property of [organization name].
-
-```
-Optional: 
-Will tip [x%] for turnaround in [x] days.
-```
-
-## Definition of done
-You have successfully completed this bounty, when:
-1. Design specific 1 has been met.
-2. Design specific 2 has been met. 
-3. etc.
-
-## Additional information
-Please expect three rounds of review in accordance to our [design-guidelines]. 
+The following compensation applies for bug submissions. 
+ * Critical functionality misbehavior: [xxx] ETH 
+* Unexpected functionality misbehavior: [yyy] ETH 
 
 ## Submission
-Please email completed designs to someone@someonescompany.com
+To submit your bug findings, please email a detailed response to [your-email]. Provide us with at least 5 working days to investigate the issue and revert back to you. Payouts will be made to the first individuals who report bugs.
+
+Thanks,
+
+[Your organization]
 
 <table>
 <td width=1000>
-Live example of similar exemplar can be found <a href="https://gitcoin.co/issue/gitcoinco/web/2200/1190">here</a>.
+Live example of similar exemplar can be found <a href="https://gitcoin.co/issue/zincwork/contracts/25/1130">here</a>.
 </td>
 </table>
