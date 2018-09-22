@@ -59,6 +59,9 @@ You have completed this bounty when:
 1. The checkmark is now blue.
 ```
 
+### Additional Information
+This section covers general additional information that you would like to provide the bounty hunter, that does not fit in any other section. 
+
 ### Submission
 Finally, submission details the method of how you want prospective bounty hunters to submit their work. With the concern of various design formats, etc., it's essential to make certain you have an appropriate method of submission. For example:
 
