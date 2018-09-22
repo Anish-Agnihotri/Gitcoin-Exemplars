@@ -11,7 +11,7 @@
 A good bug bounty is one that is consice, to the point, and provides an adequate amount of detail in regards to the problem(s) that needs to be found and resolved. Since a majority of bug bounties are retroactive, and are not geared towards solving a specific problem, but, rather hunting for one, it is essential to include as much information as possible to guide a bounty hunter. 
 
 ## What is a bug bounty?
-A bug bounty is essentially a contest bounty in which bounty hunters are rewarded for finding bugs or vulnerabilities within a platform, application, or task. It is an open-ended request which usually accepts multiple entries. 
+A bug bounty is essentially a bounty in which bounty hunters are rewarded for finding bugs or vulnerabilities within a platform, application, or task. It is an open-ended request which usually accepts multiple entries. 
 
 ## What should be included in a bug bounty?
 Since bug bounties have such a wide scope, there are various criterion which can be included to work towards an effective bounty description: 
