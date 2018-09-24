@@ -17,7 +17,7 @@ A design request bounty is essentially a request for help in designing various a
 Since design request bounties have such a wide scope, there are various criterion which can be included to work towards an effective bounty description: 
 
 ### User story
-Specific to design request bounties, a user story is a great way of informing a prospective bounty hunter regarding your task. Often times, a design request focuses around an existing application or idea, and there is no better way to communicate this then to walk the applicant through the end-goal. For example:
+Specific to design request and feature request bounties, a user story is a great way of informing a prospective bounty hunter regarding your task. Often times, a design request focuses around an existing application or idea, and there is no better way to communicate this then to walk the applicant through the end-goal. For example:
 
 ```
 As a funder, I would like [your-task]. 
