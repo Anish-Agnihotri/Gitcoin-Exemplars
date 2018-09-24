@@ -3,7 +3,7 @@
 <img src='https://raw.githubusercontent.com/gitcoinco/gitcoinco/master/img/helmet.png'/>
 </td>
 <td width=800>
-  Bug bounty exemplar #1. Written in perspective of organization posting a <strong>collaboration</strong> Gitcoin bounty. Replace text in [] tags to easily reuse template. 
+  Bug bounty exemplar #1. Written in perspective of organization posting a <strong>cooperative</strong> Gitcoin bounty. Replace text in [] tags to easily reuse template. 
 </td>
 </table>
 
