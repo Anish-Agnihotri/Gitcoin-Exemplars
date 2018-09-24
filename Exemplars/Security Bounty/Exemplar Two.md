@@ -3,7 +3,7 @@
 <img src='https://raw.githubusercontent.com/gitcoinco/gitcoinco/master/img/helmet.png'/>
 </td>
 <td width=800>
-  Security bounty exemplar #1. Written in perspective of organization posting a <strong>traditional</strong> Gitcoin bounty. Replace text in [] tags to easily reuse template. 
+  Security bounty exemplar #2. Written in perspective of organization posting a <strong>traditional</strong> Gitcoin bounty. Replace text in [] tags to easily reuse template. 
 </td>
 </table>
 
