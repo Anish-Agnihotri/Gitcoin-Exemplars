@@ -17,7 +17,7 @@ A bug bounty is essentially a bounty in which bounty hunters are rewarded for fi
 Since bug bounties have such a wide scope, there are various criterion which can be included to work towards an effective bounty description: 
 
 ### Task
-The task is the job at hand. This is a simple breif that describes the purpose of your bounty. For example:
+The task is the job at hand. This is a simple brief that describes the purpose of your bounty. For example:
 
 ```
 The task is to find functionality bugs in [your-application]. 
