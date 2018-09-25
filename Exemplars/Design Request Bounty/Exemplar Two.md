@@ -54,6 +54,6 @@ Thanks,
 
 <table>
 <td width=1000>
-Live example of similar exemplar can be found <a href="https://gitcoin.co/issue/JoinColony/colonyHackathon/4/572">here</a>.
+Live example of similar exemplar can be found <a href="https://gitcoin.co/issue/gitcoinco/web/2158/1110">here</a>.
 </td>
 </table>
