@@ -45,6 +45,6 @@ Thanks,
 
 <table>
 <td width=1000>
-Live example of similar exemplar can be found <a href="https://gitcoin.co/issue/gitcoinco/web/1469/662">here</a>.
+Live example of similar exemplar can be found <a href="https://gitcoin.co/issue/ColuLocalNetwork/CLN-community-app/90/1016">here</a>.
 </td>
 </table>
