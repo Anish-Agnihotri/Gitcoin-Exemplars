@@ -44,6 +44,6 @@ Please email completed designs to someone@someonescompany.com
 
 <table>
 <td width=1000>
-Live example of similar exemplar can be found <a href="https://gitcoin.co/issue/gitcoinco/web/2200/1190">here</a>.
+Live example of similar exemplar can be found <a href="https://gitcoin.co/issue/gitcoinco/web/2038/986">here</a>.
 </td>
 </table>
